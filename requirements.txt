@@ -1,0 +1,6 @@
+fastapi>=0.110
+uvicorn>=0.29
+pypdf>=4
+python-docx>=1.1
+fpdf2>=2.7
+pytest>=8

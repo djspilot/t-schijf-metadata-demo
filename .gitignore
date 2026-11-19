@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.pytest_cache/
+demo-t-schijf/
+demo-sharepoint/
+demo-werk.db
